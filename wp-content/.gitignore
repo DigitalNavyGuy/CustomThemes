@@ -1,0 +1,10 @@
+.DS_Store
+wp-content/ai1wm-backups
+wp-content/plugins/all-in-one-wp-migration
+wp-content/plugins/copy-delete-posts
+wp-content/plugins/elementor
+wp-content/plugins/index.php
+wp-content/upgrade
+wp-content/upgrade-temp-backup
+wp-content/uploads
+wp-content/index.php
